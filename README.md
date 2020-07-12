@@ -14,4 +14,6 @@ Sample Text
 
 Sample Text again
 
-## Adding two numerals tittle
+## Adding two numerals tittle just for git add command
+
+## Adding new tittle
