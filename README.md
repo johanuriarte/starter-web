@@ -17,3 +17,7 @@ Sample Text again
 ## Adding two numerals tittle just for git add command
 
 ## Adding new tittle
+
+## Copyright
+
+This is a Copyright text
