@@ -18,6 +18,6 @@ Sample Text again
 
 ## Adding new tittle
 
-## Copyright
+## Copyright2
 
-This is a Copyright text
+This is a Copyright text2
