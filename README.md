@@ -21,3 +21,7 @@ Sample Text again
 ## Copyright2
 
 This is a Copyright text2
+
+## How to contribute
+
+Please fork this repo and blablabla
