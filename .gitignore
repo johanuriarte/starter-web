@@ -1,3 +1,4 @@
 .SD_MAC.txt
 *.log
 Log/
+*.orig
